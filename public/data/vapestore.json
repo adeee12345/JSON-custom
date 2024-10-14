@@ -1,0 +1,20 @@
+[
+    {
+      "IdProduk": 1,
+      "KodeProduk": "001",
+      "NamaProduk": "xlimSE",
+      "HargaModal": "130000",
+      "HargaJual": "150000",
+      "HargaDiskon": "140000",
+      "Stok": 2
+    },
+    {
+      "IdProduk": 2,
+      "KodeProduk": "002",
+      "NamaProduk": "xlimPRO",
+      "HargaModal": "185000",
+      "HargaJual": "230000",
+      "HargaDiskon": "200000",
+      "Stok": 5
+    }
+]
